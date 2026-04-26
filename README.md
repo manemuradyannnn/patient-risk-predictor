@@ -1,4 +1,5 @@
 **Patient Risk Predictor (PyTorch)**
+
 This project implements a simple neural network using PyTorch to classify patient health risk based on vital signs. The model takes in basic patient data such as age, heart rate, oxygen level, and temperature, and predicts whether the patient is low risk (0) or high risk (1).
 The goal of this project is to demonstrate fundamental machine learning concepts, including data representation, model construction, loss computation, and training using gradient-based optimization.
 
